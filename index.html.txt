@@ -6,6 +6,6 @@
 <body>
   <h1>thardu</h1>
   <button>submit</button>
-  <table></table>
+
 </body>
 </html>
